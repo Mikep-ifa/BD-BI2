@@ -1,0 +1,9 @@
+﻿Decision Tree;Gini Index Max. Depth 10;56,67
+Decision Tree;Gain Ratio Max. Depth  19;53,33
+Decision Tree;Gain Ratio Max. Depth 4;43,33
+Naïve Bayes;Ohne Kernel;76,67
+Naïve Bayes;Schätzverfahren full;80
+Naïve Bayes;Schätzverfahren greedy;76,67
+Artifical Neural Networks;Training 200 | Rate 0.01;73,33
+Artifical Neural Networks;Training 400 | Rate 0.01;70
+Artifical Neural Networks;Training 200 | Rate 0.03;30
